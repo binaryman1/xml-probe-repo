@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomObject [ <!ENTITY gone2 SYSTEM "file:///zzz-nonexistent-12345-gs"> ]>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>declared but never referenced</label>
+    <pluralLabel>ProbeExtDeclOnlys</pluralLabel>
+    <nameField><label>Name</label><type>Text</type></nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>
