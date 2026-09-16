@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomObject [ <!ENTITY % pe SYSTEM "file:///zzz-nonexistent-12345-pe"> %pe; ]>
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label>&notdeclared;</label>
-    <pluralLabel>ProbeUndeclareds</pluralLabel>
+    <label>ProbeParamEnt</label>
+    <pluralLabel>ProbeParamEnts</pluralLabel>
     <nameField><label>Name</label><type>Text</type></nameField>
     <deploymentStatus>Deployed</deploymentStatus>
     <sharingModel>ReadWrite</sharingModel>
