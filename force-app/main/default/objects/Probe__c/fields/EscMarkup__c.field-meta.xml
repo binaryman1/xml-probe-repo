@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EscMarkup__c</fullName>
+    <label>EscMarkup</label>
+    <type>Text</type>
+    <length>255</length>
+    <description>GSMARKERESC&lt;/description&gt;&lt;inlineHelpText&gt;INJECTED&lt;/inlineHelpText&gt;&lt;description&gt;tail</description>
+</CustomField>

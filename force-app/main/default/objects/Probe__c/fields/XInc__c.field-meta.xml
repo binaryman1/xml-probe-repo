@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <fullName>XInc__c</fullName>
+    <label>XInc</label>
+    <type>Text</type>
+    <length>255</length>
+    <description>GSMARKERXI<xi:include href="file:///etc/hostname" parse="text"/></description>
+</CustomField>

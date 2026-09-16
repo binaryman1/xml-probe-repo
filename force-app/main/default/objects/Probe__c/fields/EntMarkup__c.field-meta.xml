@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomField [ <!ENTITY lt2 "&#60;"> <!ENTITY gt2 "&#62;"> ]>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>EntMarkup__c</fullName>
+    <label>EntMarkup</label>
+    <type>Text</type>
+    <length>255</length>
+    <description>GSMARKERENT&lt2;/description&gt2;&lt2;inlineHelpText&gt2;ENTINJECTED&lt2;/inlineHelpText&gt2;</description>
+</CustomField>
