@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomLabels [ <!ENTITY probe "GSPROBEINTERNAL"> ]>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>CtrlLabelAlpha</fullName>
+        <categories>probe</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in-file control, parsed before the entity</shortDescription>
+        <value>control alpha</value>
+    </labels>
+    <labels>
+        <fullName>&probe;</fullName>
+        <categories>probe</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>internal entity in fullName</shortDescription>
+        <value>entity test</value>
+    </labels>
+    <labels>
+        <fullName>CtrlLabelOmega</fullName>
+        <categories>probe</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>in-file control, parsed after the entity</shortDescription>
+        <value>control omega</value>
+    </labels>
+</CustomLabels>
