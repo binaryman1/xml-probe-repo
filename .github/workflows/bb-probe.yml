@@ -1,0 +1,8 @@
+name: bb-probe
+on: pull_request
+jobs:
+  failing-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: fail on purpose
+        run: exit 1
