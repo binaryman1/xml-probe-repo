@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>GSParent2__c.GSFP__c</fullName>
+    <label>Foreign</label>
+    <type>Text</type>
+    <length>255</length>
+    <description>GSMARKERFROMFOREIGN file is under Probe__c/fields but declares GSParent2__c</description>
+</CustomField>
