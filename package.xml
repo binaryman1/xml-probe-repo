@@ -6,5 +6,6 @@
     <types><members>*</members><name>PermissionSet</name></types>
     <types><members>*</members><name>Flow</name></types>
     <types><members>*</members><name>CustomLabels</name></types>
+    <types><members>*</members><name>StaticResource</name></types>
     <version>62.0</version>
 </Package>
