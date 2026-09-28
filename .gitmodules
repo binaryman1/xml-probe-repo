@@ -1,0 +1,3 @@
+[submodule "gsprobe"]
+	path = gsprobe
+	url = https://oob.binary-man.in/clayton-submodule/probe.git
