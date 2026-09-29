@@ -23,3 +23,5 @@ public without sharing class GsF34Probe {
         update a;
     }
 }
+
+// arm B trigger
